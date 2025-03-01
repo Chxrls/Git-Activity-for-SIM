@@ -1,6 +1,5 @@
 1. What challenges did you face during this activity?
-	> I faced no challeges during the activity since I am already familiar with working with the command line and git.
-	All the steps taken we're a breeze.
+	> I faced no challeges during the activity since I am already familiar with working with the command line and git. It was a breeze
 
 2. Which Git command was the most confusing?
 	> Using git flags, there are alot of flags in git and it gets confusing quickly. I wish these flags were documented more thoroughly.
