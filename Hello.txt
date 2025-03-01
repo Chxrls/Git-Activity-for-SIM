@@ -1,0 +1,11 @@
+1. What challenges did you face during this activity?
+	> I faced no challeges during the activity since I am already familiar with working with the command line and git.
+	All the steps taken we're a breeze.
+
+2. Which Git command was the most confusing?
+	> Using git flags, there are alot of flags in git and it gets confusing quickly. I wish these flags were documented more thoroughly.
+
+3. How can version control help in real-world software development?
+	> Version control like git is essential in software-development cause it enables for collaboration between multiple developers within the use of branching,
+	allowing them to work on a single project simultaneously without overwriting each other's changes. Version Control also tracks changes within the project,
+	every single modification is recorded allowing developers to track who made changes to the codebase.
